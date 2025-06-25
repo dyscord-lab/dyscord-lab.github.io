@@ -2,6 +2,7 @@
 title: "Lana Delasanta"
 collection: people
 permalink: /people/Delasanta
+bio: '<b>Lana Delasanta</b>. Graduated MS in 2022.'
 githuburl: "https://github.com/lanadelasanta"
 osfurl: "https://osf.io/profile/"
 avatar_url: 

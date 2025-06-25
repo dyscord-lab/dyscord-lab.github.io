@@ -2,6 +2,7 @@
 title: "Qi Xia"
 collection: people 
 permalink: /people/Xia
+bio: '<b>Qi Xia</b>. Former undergraduate research assistant.'
 githuburl: 'https://github.com/qi-xia'
 osfurl:
 avatar_url:

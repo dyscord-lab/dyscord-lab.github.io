@@ -2,6 +2,7 @@
 title: "Grace Iaconis"
 collection: people
 permalink: /people/Iaconis
+bio: '<b>Grace Iaconis</b>. Former undergraduate research assistant.'
 githuburl: 'https://github.com/gzi17001'
 osfurl:
 avatar_url:

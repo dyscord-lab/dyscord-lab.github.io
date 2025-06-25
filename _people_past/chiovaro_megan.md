@@ -2,6 +2,7 @@
 title: "Megan Chiovaro"
 collection: people
 permalink: /people/chiovaro
+bio: '<b>Megan Chiovaro</b>. Graduated PhD in 2023.'
 githuburl: 'https://github.com/mchiovaro'
 osfurl: 'https://osf.io/zgres/'
 avatar_url:
