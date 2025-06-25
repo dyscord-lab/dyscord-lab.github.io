@@ -48,9 +48,10 @@ have stewarded this land throughout the generations.
 
 We're looking for interested undergraduate students to join our lab as research
 assistants! If the possibility of being a part of our community interests you,
-[please fill out this Google form](https://docs.google.com/forms/d/e/1FAIpQLScxCpwVgjQav5GtNbVnUdEvgmX7sY3qWOaNJ2HH4jndZF4Grw/viewform?usp=sf_link).
-Someone from our lab will reach out to you to follow up within a week (although
-it might be longer if you fill this out during a break).
+[please fill out this form](https://forms.office.com/Pages/ResponsePage.aspx?id=fqjxFyUqqk65351DkDSwgPfhhkOQ2bRMjpFEejI6GYdUMjBRQjRJQUVHRlpMQVlCMllZWk9NRVhLMS4u).
+Someone from our lab will reach out to you to follow up within a week or two 
+(although it might be longer if you fill this out during a break). If you don't
+hear from us within two weeks, please follow up with our lab's PI, [Alexandra Paxton](https://alexandrapaxton.com/).
 
 ## News and recent work
 
