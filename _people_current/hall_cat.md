@@ -1,8 +1,8 @@
 ---
-title: "Cat Hall"
+title: "Caitrín Hall"
 collection: people
 permalink: /people/hall
-bio: '<b>Cat Hall</b>'
+bio: '<b>Caitrín Hall</b>'
 githuburl:
 osfurl:
 avatar_url:
