@@ -53,8 +53,8 @@ Someone from our lab will reach out to you to follow up within a week or two
 (although it might be longer if you fill this out during a break). If you don't
 hear from us within two weeks, please follow up with our lab's PI, [Alexandra Paxton](https://alexandrapaxton.com/).
 
-## News and recent work
+<!---## News and recent work
 
 {% for post in site.recent reversed %}
   {% include archive-recent.html %}
-{% endfor %}
+{% endfor %}--->
